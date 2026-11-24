@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.pth
+*.pt
+*.bin
+*.safetensors
+.idea/
+.vscode/
+metrics.json
+runs/
+D:/hf_cache/
+D:\hf_cache/
